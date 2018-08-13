@@ -2,7 +2,7 @@
 
 Hello GitHub-World,
 
-this is my first reprository! 
+this is my first repository! 
 
 -------------
 
