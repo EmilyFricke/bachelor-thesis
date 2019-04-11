@@ -20,9 +20,3 @@ The remainder of the thesis is structured as follows.
 + *Chapter 4* backtests selected modernization approaches used in the robo-advisor industry such as constraining asset weights, substituting variance with four different downside risk-measurements and forecasting returns with the Black-Litterman model.
 
 + *Chapter 5* concludes the thesis by emphasizing important findings and providing an outlook for further research of this topic.
-
-Work in progress.
-
-At least I understood how to format nice things like *this* or **that** and very import: inline `code` !
-
-More can be found here: [I'm a link to the Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
