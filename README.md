@@ -38,10 +38,13 @@ industry.
 
 The remainder of the thesis is structured as follows.
 
-⋅⋅⋅+ *Chapter 2* presents an overview of the core concepts of Modern Portfolio Theory,
-⋅⋅⋅⋅ discusses its benefits and limitations as well as potential techniques how
-⋅⋅⋅⋅ to overcome those and concludes that Modern Portfolio Theory is even today
-⋅⋅⋅⋅ a compelling framework for asset allocation.
++ *Chapter 2* presents an overview of the core concepts of Modern Portfolio Theory, discusses its benefits and limitations as well as potential techniques how to overcome those and concludes that Modern Portfolio Theory is even today a compelling framework for asset allocation.
+
++ *Chapter 3* describes the basic functioning of robo-advisors and discusses the rational for using Exchange Traded Funds (ETFs), which is the investment strategy that most robo-advisors have adopted. It then describes robo-advisors’ general asset allocation methodology, showing that robo-advisors perform a asset allocation based on a modernized MPT framework.
+
++ *Chapter 4* backtests selected modernization approaches used in the robo-advisor industry such as constraining asset weights, substituting variance with four different downside risk-measurements and forecasting returns with the Black-Litterman model.
+
++ *Chapter 5* concludes the thesis by emphasizing important findings and providing an outlook for further research of this topic.
 
 Work in progress.
 
